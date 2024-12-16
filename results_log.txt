@@ -1,0 +1,65 @@
+results:
+ı score: 4834 langs: Turkish, Azerbaijani
+ã score: 1766 langs: Portuguese
+ñ score: 894 langs: Spanish, Galician, Breton, Basque
+ł score: 765 langs: Polish, Upper Sorbian, Lower Sorbian
+ă score: 614 langs: Romanian
+ê score: 631 langs: Western Frisian, French, Portuguese, Breton
+ë score: 536 langs: Dutch, Luxembourgish, French, Albanian
+ş score: 1710 langs: Turkish, Azerbaijani
+õ score: 362 langs: Portuguese, Estonian
+å score: 237 langs: Swedish, Danish, Norwegian, Finnish
+ą score: 416 langs: Polish, Lithuanian
+î score: 350 langs: French, Italian, Romanian, Breton
+ý score: 166 langs: Icelandic, Faroese, Czech, Slovak
+ę score: 407 langs: Polish, Lithuanian
+ő score: 123 langs: Hungarian
+ß score: 122 langs: German
+ě score: 162 langs: Czech, Upper Sorbian, Lower Sorbian
+ò score: 96 langs: Italian, Catalan, Corsican, Sardinian
+ğ score: 850 langs: Turkish, Azerbaijani
+ā score: 60 langs: Latvian
+ż score: 273 langs: Polish, Maltese
+ø score: 87 langs: Danish, Norwegian, Faroese
+ș score: 254 langs: Romanian
+œ score: 51 langs: French
+ė score: 64 langs: Lithuanian
+ř score: 119 langs: Czech, Upper Sorbian
+ț score: 237 langs: Romanian
+ś score: 226 langs: Polish, Lower Sorbian
+ì score: 36 langs: Italian, Corsican, Sardinian
+û score: 36 langs: Western Frisian, French, Breton
+ï score: 28 langs: Dutch, French, Catalan, Corsican
+ű score: 30 langs: Hungarian
+ų score: 53 langs: Lithuanian
+ť score: 31 langs: Czech, Slovak
+ů score: 59 langs: Czech
+ć score: 104 langs: Polish, Upper Sorbian, Lower Sorbian
+ľ score: 24 langs: Slovak
+ð score: 15 langs: Icelandic, Faroese
+ń score: 81 langs: Polish, Upper Sorbian, Lower Sorbian
+ħ score: 12 langs: Maltese
+ī score: 27 langs: Latvian
+į score: 22 langs: Lithuanian
+ň score: 13 langs: Czech, Slovak
+ū score: 23 langs: Lithuanian, Latvian
+ď score: 9 langs: Czech, Slovak
+ź score: 27 langs: Polish, Upper Sorbian, Lower Sorbian
+ē score: 25 langs: Latvian
+ġ score: 5 langs: Maltese
+ċ score: 3 langs: Maltese
+þ score: 4 langs: Icelandic
+ĺ score: 1 langs: Slovak
+ņ score: 7 langs: Latvian
+ŕ score: 1 langs: Slovak, Lower Sorbian
+ļ score: 6 langs: Latvian
+đ score: 0 langs: Northern Sami
+ÿ score: 0 langs: French
+ķ score: 2 langs: Latvian
+ģ score: 2 langs: Latvian
+ŋ score: 0 langs: Northern Sami
+ŧ score: 0 langs: Northern Sami
+listed 60 letters out of 104 total letters
+covered 35/41 languages: Luxembourgish, Basque, Western Frisian, Polish, Azerbaijani, Norwegian, Sardinian, French, Slovak, Danish, Faroese, Dutch, German, Spanish, Latvian, Finnish, Hungarian, Galician, Maltese, Romanian, Upper Sorbian, Catalan, Portuguese, Lithuanian, Swedish, Northern Sami, Breton, Lower Sorbian, Corsican, Italian, Estonian, Albanian, Czech, Icelandic, Turkish
+with distinct converage for 12/41 languages: Icelandic, Latvian, German, Czech, Slovak, Hungarian, Portuguese, French, Lithuanian, Northern Sami, Maltese, Romanian
+missed languages: Romansh, Welsh, English, Irish, Manx, Slovenian
