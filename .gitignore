@@ -1,0 +1,6 @@
+
+corpora_files
+corpora_files_extracted
+/__pycache__
+/venv
+.env

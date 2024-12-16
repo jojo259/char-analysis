@@ -1,0 +1,65 @@
+results:
+ı score: 4834431 langs: Turkish, Azerbaijani
+ã score: 1765649 langs: Portuguese
+ñ score: 893945 langs: Spanish, Galician, Breton, Basque
+ł score: 764684 langs: Polish, Upper Sorbian, Lower Sorbian
+ă score: 613739 langs: Romanian
+ê score: 541865 langs: Western Frisian, French, Portuguese, Breton
+ë score: 536131 langs: Dutch, Luxembourgish, French, Albanian
+ş score: 265885 langs: Turkish, Azerbaijani
+õ score: 262129 langs: Portuguese, Estonian
+å score: 236832 langs: Swedish, Danish, Norwegian, Finnish
+ą score: 204599 langs: Polish, Lithuanian
+î score: 173851 langs: French, Italian, Romanian, Breton
+ý score: 166444 langs: Icelandic, Faroese, Czech, Slovak
+ę score: 129649 langs: Polish, Lithuanian
+ő score: 123080 langs: Hungarian
+ß score: 122392 langs: German
+ě score: 112048 langs: Czech, Upper Sorbian, Lower Sorbian
+ò score: 96051 langs: Italian, Catalan, Corsican, Sardinian
+ğ score: 66382 langs: Turkish, Azerbaijani
+ā score: 60329 langs: Latvian
+ż score: 59929 langs: Polish, Maltese
+ø score: 59228 langs: Danish, Norwegian, Faroese
+ș score: 58538 langs: Romanian
+œ score: 47397 langs: French
+ė score: 45920 langs: Lithuanian
+ř score: 44822 langs: Czech, Upper Sorbian, Lower Sorbian
+ț score: 35832 langs: Romanian
+ś score: 35695 langs: Polish, Lower Sorbian
+ì score: 33754 langs: Italian, Corsican, Sardinian
+û score: 32797 langs: Western Frisian, French, Breton
+ï score: 25661 langs: Dutch, French, Catalan, Corsican
+ű score: 20129 langs: Hungarian
+ų score: 20027 langs: Lithuanian
+ť score: 18429 langs: Czech, Slovak
+ů score: 14121 langs: Czech
+ć score: 13026 langs: Polish, Upper Sorbian, Lower Sorbian
+ľ score: 12605 langs: Slovak
+ð score: 12438 langs: Icelandic, Faroese
+ń score: 9130 langs: Polish, Upper Sorbian, Lower Sorbian
+ħ score: 9034 langs: Maltese
+ī score: 5246 langs: Latvian
+į score: 4711 langs: Lithuanian
+ň score: 4366 langs: Czech, Slovak
+ū score: 3556 langs: Lithuanian, Latvian
+ď score: 3273 langs: Czech, Slovak
+ź score: 2778 langs: Polish, Upper Sorbian, Lower Sorbian
+ē score: 1983 langs: Latvian
+ġ score: 1403 langs: Maltese
+ċ score: 722 langs: Maltese
+þ score: 710 langs: Icelandic
+ĺ score: 386 langs: Slovak
+ņ score: 280 langs: Latvian
+ŕ score: 213 langs: Slovak, Lower Sorbian
+ļ score: 207 langs: Latvian
+đ score: 134 langs: Northern Sami
+ÿ score: 66 langs: French
+ķ score: 65 langs: Latvian
+ģ score: 57 langs: Latvian
+ŋ score: 44 langs: Northern Sami
+ŧ score: 4 langs: Northern Sami
+listed 60 chars out of 104 total chars
+covered 35/41 languages: Slovak, Albanian, Hungarian, Corsican, Maltese, Basque, Western Frisian, Swedish, Catalan, Breton, Norwegian, Latvian, French, Turkish, Lower Sorbian, Sardinian, Finnish, Spanish, Italian, Upper Sorbian, Galician, Luxembourgish, Icelandic, Czech, Romanian, Portuguese, German, Danish, Dutch, Faroese, Polish, Northern Sami, Azerbaijani, Estonian, Lithuanian
+with distinct converage for 12/41 languages: Latvian, Slovak, Hungarian, French, Maltese, Icelandic, Czech, Romanian, Northern Sami, Portuguese, German, Lithuanian
+missed languages: Slovenian, Welsh, Manx, Irish, English, Romansh
